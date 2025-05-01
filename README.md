@@ -1,4 +1,12 @@
-# ReviewAI
+# ReviewAI <span style="display: inline-flex; align-items: center; vertical-align: middle;"> <img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/100/external-laptop-connected-with-a-brain-isolated-on-a-white-background-artificial-green-tal-revivo.png" alt="icon" style="margin-left: 10px;" /></span>
+
+
+
+
+
+
+
+
 
 [**ReviewAI**](https://reviewai.up.railway.app) is an AI-powered web application that provides intelligent product recommendations by analyzing real buyers' reviews using state-of-the-art sentiment analysis. It serves both consumers and businesses by offering actionable insights, fraud detection, and a smarter shopping experience.
 
