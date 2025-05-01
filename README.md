@@ -16,8 +16,7 @@
 ---
 
 ## 🛒 Utility
-
-ReviewAI acts as your smart shopping companion.  
+ 
 - **For consumers:**  
   - Get unbiased, data-driven recommendations.
   - Avoid fraudulent or disappointing purchases.
@@ -39,20 +38,6 @@ ReviewAI acts as your smart shopping companion.
 - **dotenv, SSL, Certifi**
 - **Natural Language Processing (NLP)**
 
----
-
-## 📦 Categories
-
-- AI
-- Web Application
-- Sentiment Analysis
-- Recommendation Engine
-- Data Scraping
-- Business Intelligence
-- Fraud Prevention
-
----
-
 ## ⚡ Getting Started
 
 1. **Clone the repository:**
@@ -68,10 +53,6 @@ ReviewAI acts as your smart shopping companion.
    ```bash
    Streamlit run review_analysis_app.py
 
-4. **Usage**
-   - Open the web interface in your browser.
-   - Paste a product link from an e-commerce site.
-   - Instantly receive AI-powered recommendations to either buy the product or not.
    
 ## 📂 Project Structure
 
