@@ -1,6 +1,7 @@
 # ReviewAI
 
-**ReviewAI** is an AI-powered web application that provides intelligent product recommendations by analyzing real buyers' reviews using state-of-the-art sentiment analysis. It serves both consumers and businesses by offering actionable insights, fraud detection, and a smarter shopping experience.
+[**ReviewAI**](https://reviewai.up.railway.app) is an AI-powered web application that provides intelligent product recommendations by analyzing real buyers' reviews using state-of-the-art sentiment analysis. It serves both consumers and businesses by offering actionable insights, fraud detection, and a smarter shopping experience.
+
 
 ---
 
