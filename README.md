@@ -73,15 +73,16 @@ ReviewAI acts as your smart shopping companion.
    - Open the web interface in your browser.
    - Paste a product link from an e-commerce site.
    - Instantly receive AI-powered recommendations and insights.
-
+   - 
 ## 📂 Project Structure
 
-├── README.md               # Project documentation
-├── requirements.txt        # Python dependencies
-├── review_analysis_app.py  # Main Streamlit web application for product review analysis
-├── scraper.py              # Web scraper for extracting product reviews from e-commerce sites
-├── genai_analysis.py       # GenAI-powered sentiment and category analysis for reviews
----
+├── README.md # Project documentation  
+├── requirements.txt # Python dependencies  
+├── review_analysis_app.py # Main Streamlit web application for product review analysis  
+├── scraper.py # Web scraper for extracting product reviews from e-commerce sites  
+├── genai_analysis.py # GenAI-powered sentiment and category analysis for reviews  
+
+
 
 ## 🤝 Contributing
 
