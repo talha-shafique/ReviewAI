@@ -14,7 +14,7 @@
 
 ---
 
-## 🛒 Utility & Purpose
+## 🛒 Utility
 
 ReviewAI acts as your smart shopping companion.  
 - **For consumers:**  
@@ -45,12 +45,10 @@ ReviewAI acts as your smart shopping companion.
 - AI
 - Web Application
 - Sentiment Analysis
-- Product Recommendation
+- Recommendation Engine
 - Data Scraping
-- E-commerce Tools
-- Consumer Analytics
 - Business Intelligence
-- Fraud Detection
+- Fraud Prevetion
 
 ---
 
@@ -72,17 +70,19 @@ ReviewAI acts as your smart shopping companion.
 4. **Usage**
    - Open the web interface in your browser.
    - Paste a product link from an e-commerce site.
-   - Instantly receive AI-powered recommendations and insights.
-   - 
+   - Instantly receive AI-powered recommendations to either buy the product or not.
+   
 ## 📂 Project Structure
 
-├── README.md # Project documentation  
-├── requirements.txt # Python dependencies  
-├── review_analysis_app.py # Main Streamlit web application for product review analysis  
-├── scraper.py # Web scraper for extracting product reviews from e-commerce sites  
-├── genai_analysis.py # GenAI-powered sentiment and category analysis for reviews  
+```
 
+├── README.md               # Project documentation  
+├── requirements.txt        # Python dependencies  
+├── review_analysis_app.py  # Main Streamlit web application for product review analysis  
+├── scraper.py              # Web scraper for extracting product reviews from e-commerce sites  
+├── genai_analysis.py       # GenAI-powered sentiment and category analysis for reviews  
 
+```
 
 ## 🤝 Contributing
 
