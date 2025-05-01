@@ -4,6 +4,7 @@ review_analysis_progress.json
 *.json
 Dump/
 trae/
+alt/
 
 # Environment variables
 .env
