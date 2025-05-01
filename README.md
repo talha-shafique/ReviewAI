@@ -49,7 +49,7 @@ ReviewAI acts as your smart shopping companion.
 - Recommendation Engine
 - Data Scraping
 - Business Intelligence
-- Fraud Prevetion
+- Fraud Prevention
 
 ---
 
