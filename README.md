@@ -1,4 +1,10 @@
-# <img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/100/external-laptop-connected-with-a-brain-isolated-on-a-white-background-artificial-green-tal-revivo.png" alt="ReviewAI icon" width="50" height="50" style="vertical-align: middle;"/> <span style="vertical-align: 2px;">ReviewAI</span>
+<p align="center">
+  <img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/250/external-laptop-connected-with-a-brain-isolated-on-a-white-background-artificial-green-tal-revivo.png" alt="Laptop Brain Icon"/>
+</p>
+
+
+
+
 
 
 
